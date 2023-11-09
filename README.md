@@ -12,5 +12,5 @@ front end :Reactjs
 backend:node js ,mongodb
 Mail specification:email.js
 
-***note***
+***note:***
 while running database in cmd, if the error occurs like some packages not available, use the command "npm i install",it will rectify the error.
