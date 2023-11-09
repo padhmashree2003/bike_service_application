@@ -1,0 +1,90 @@
+                                                                Sample data on bike service booking
+
+				              BOOKING DETAILS ON SERVER SIDE
+
+_id: ObjectId('653cb6b7bd15c75a530ab8ed')
+Serviced:"service01"
+serviceName:"General service check-up"
+serviceCharge:800
+service Description: "This service includes engine oil flush and change, inspection of parts…"
+service Duration: 4
+service Offers:"Nil"
+createdAt:2023-10-28T07:22:31.684+00:00
+updated At:2023-10-28T07:22:31.684+00:00
+__v: 0
+
+
+
+_id: ObjectId('653cb77dbd15c75a530ab8ef')
+serviced:"service02"
+service Name: "Oil change"
+service Charge:650
+service Description:"As a general rule, engine oil must be changed every 3,000 to 5,000 kil…"
+service Duration: 1.5
+service Offers: "Nill"
+created At: 2023-10-28T07:25:49.945+00:00
+updated At: 2023-10-28T07:25:49.945+00:00
+__v: 0
+
+				SERVICES DETAILS FOR CUSTOMER BOOKING ON SERVER SIDE
+_id: Object Id('6547747bd438144c24698049')
+BookingId:"c7877328-9d33-490d-9252-b538ac27f20a"
+UserId:"123456789"
+Serviced: "service02"
+Booking Status: "Service Booked"
+Bike Number: "TN 03 U 1235"
+Bike Model: "Suzuki - Access125"
+Date Of Booking: "Sun Nov 05 2023 16:24:51 GMT+0530 (India Standard Time)"
+CreatedAt:2023-11-05T10:54:51.448+00:00
+Updated At: 2023-11-05T12:49:16.074+00:00
+
+
+
+
+
+
+
+_id: Object Id('654a184d431bea96a0eac3d7')
+BookingId:"84d116cf-42cd-4aca-a617-0645bc3af79f"
+UserId:"93775076-12e5-46a0-8011-1222207dfcc1"
+Serviced:"service01"
+BookingStatus:"Cancelled"
+bikeNumber:"TN 069 Y 3698"
+bikeModel:"Honda - Unicorn Black"
+dateOfBooking: "Tue Nov 07 2023 16:28:21 GMT+0530 (India Standard Time)"
+createdAt:2023-11-07T10:58:21.835+00:00
+updatedAt:2023-11-07T10:59:07.385+00:00
+
+
+
+
+
+
+					USER DETAILS ON SERVER SIDE
+
+
+_id : Object Id('653caef7cae65a83f00a49c0')
+UserId:"123456789"
+Username:"Padhu12"
+Password: "Padhu26"
+Mail Id:"padhu@gmail.com"
+MobileNo:"9234567890"
+Is Admin: false
+createdAt:2023-10-28T06:49:27.514+00:00
+updatedAt:2023-10-28T06:49:27.514+00:00
+__v: 0	
+
+
+
+_id: Object Id('6540ffc28c26b544059ee661')
+userId:"f5db2833-f213-4f7c-a24c-8540f121ee38"
+username: "Ranjith"
+password: "Admin"
+mail Id :"admin@gmail.com"
+mobile No :"6374621708"
+is Admin : true
+created At :2023-10-31T13:23:14.904+00:00
+updatedAt:2023-10-31T13:23:14.904+00:00
+__v: 0
+
+
